@@ -8,7 +8,6 @@ I am currently a second-year MSc student in [Artificial Intelligence](https://ww
 
 - **Surgical robotics:** Learning and evaluating trajectories for autonomous surgical systems.
 - **Medical image analysis:** Vision models for surgical understanding and decision support.
-- **Efficient ML systems:** Runtime pruning, low-rank adaptation, and query-adaptive quantization for efficient model inference.
 
 ## Featured Project
 
@@ -23,11 +22,6 @@ I am currently a second-year MSc student in [Artificial Intelligence](https://ww
 
 See the [personal website](https://haroldhuanrongliu.github.io/) for the complete publication list and BibTeX entries.
 
-## Recent Highlights
-
-- **2026.04:** [OmniUp](https://github.com/HaroldHuanrongLIU/Omniup) is available as an open-source project on GitHub.
-- **2026.03:** SutureAgent is available on [arXiv](https://arxiv.org/abs/2603.26720).
-- **2025.12:** Received UM PhD Teaching Research Assistant - Type A.
 
 ## GitHub Snapshot
 
