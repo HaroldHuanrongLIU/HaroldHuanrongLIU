@@ -31,7 +31,3 @@ The cards below are a lightweight overall snapshot; the profile remains readable
   <img height="165" alt="Harold Huanrong LIU GitHub stats" src="https://github-readme-stats.vercel.app/api?username=HaroldHuanrongLIU&show_icons=true&hide_border=true&include_all_commits=true&number_format=long" />
   <img height="165" alt="Harold Huanrong LIU top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaroldHuanrongLIU&hide_border=true" />
 </p>
-
-## More Information
-
-For the full CV-style view, including education, awards, research experience, teaching, and publication details, visit [haroldhuanrongliu.github.io](https://haroldhuanrongliu.github.io/).
