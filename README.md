@@ -8,6 +8,7 @@ I am currently a second-year MSc student in [Artificial Intelligence](https://ww
 - **Medical image computing:** Vision models for surgical understanding and decision support.
 - **Computer assisted intervention:** AI-assisted methods for surgical planning, perception, and intervention support.
 
-## Featured Project
+## Featured Open Source
 
-**[OmniUp](https://github.com/HaroldHuanrongLIU/Omniup)** is a macOS-first CLI upgrade orchestrator that maps terminal commands to their package owners and builds auditable, low-risk upgrade plans.
+- **[sync-github-forks](https://github.com/HaroldHuanrongLIU/sync-github-forks):** A Codex skill package for checking and batch-synchronizing GitHub fork repositories from their upstream parents with GitHub CLI.
+- **[upgrade-cli-fleet](https://github.com/HaroldHuanrongLIU/upgrade-cli-fleet):** A Codex skill for planning safe upgrades across many local CLI tools with owner-aware inventory, package-manager evidence, and explicit user approval before applying changes.
