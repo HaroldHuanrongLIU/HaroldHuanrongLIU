@@ -1,6 +1,6 @@
 # Hi, I'm Harold Huanrong LIU
 
-I am currently a second-year MSc student in [Artificial Intelligence](https://www.cis.um.edu.mo/msc_artificial_intelligence.html) and an incoming PhD student in [Computer and Information Science](https://www.cis.um.edu.mo) at the [University of Macau](https://um.edu.mo), advised by [Prof. Qingbiao LI](https://www.fst.um.edu.mo/people/qingbiaoli/). My work focuses on surgical robotics, medical image computing, and computer assisted intervention.
+I am currently a PhD student in [Computer and Information Science](https://www.cis.um.edu.mo) at the [University of Macau](https://um.edu.mo), advised by [Prof. Qingbiao LI](https://www.fst.um.edu.mo/people/qingbiaoli/). My work focuses on surgical robotics, medical image computing, and computer assisted intervention.
 
 ## Research
 
