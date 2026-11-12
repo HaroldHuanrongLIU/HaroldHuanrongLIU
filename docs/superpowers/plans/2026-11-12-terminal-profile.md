@@ -52,7 +52,7 @@
 - [x] Fresh read-only review of generator, statistics, workflow and approved design.
 - [x] Fix material findings and run affected checks; no material findings remained.
 - [x] Report local deliverables and validation and obtain publication approval.
-- [ ] Publish to main and confirm the first GitHub Actions refresh and asset commit succeed.
+- [x] Publish to main and confirm the first GitHub Actions refresh and asset commit succeed.
 
 ## Execution notes
 
@@ -60,4 +60,5 @@
 - The initial six tests failed before implementation and passed afterward. Independent review found no material issue.
 - Ruling: add light/dark mobile variants after browser QA showed that a single desktop image made phone text too small. A new mobile test failed first, then passed with the implementation. All five outputs are explicitly staged by the workflow.
 - Publication approval received: commit all changes, push to main, and confirm the first automatic update succeeds.
-- Final verification: seven unit tests pass; all four SVGs parse; all five generated artifacts reproduce byte-for-byte offline; YAML schedule/dispatch/permissions checks pass; desktop and mobile picture selection verified without horizontal overflow. Independent review of the original implementation and mobile delta found no material issues. GitHub-hosted execution is pending publication approval.
+- Final verification: seven unit tests pass; all four SVGs parse; all five generated artifacts reproduce byte-for-byte offline; YAML schedule/dispatch/permissions checks pass; desktop and mobile picture selection verified without horizontal overflow. Independent review of the original implementation and mobile delta found no material issues.
+- Published to main in `4bb1a262ba98a121140d2d70e0a30a036189cb95`. The first push-triggered [Actions run](https://github.com/HaroldHuanrongLIU/HaroldHuanrongLIU/actions/runs/43246598205) succeeded, including tests, public-data refresh and asset publication. Bot commit `748bdf276ddbc23d408c7d9c23e55f7d31613856` updated all five generated files; its snapshot time is 2026-11-12 23:19:55 UTC+8. Both desktop and mobile card selection/loading were verified on the live GitHub profile.
