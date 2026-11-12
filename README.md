@@ -1,9 +1,10 @@
-# Hi, I'm Harold Huanrong LIU
+<a href="https://huanrongliu.com/">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/profile-dark-mobile.svg">
+    <source media="(max-width: 600px)" srcset="assets/profile-light-mobile.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
+    <img alt="Harold Huanrong LIU — PhD Student at University of Macau. ASCII portrait, personal information, and an automatically updated public GitHub snapshot." src="assets/profile-light.svg" width="985">
+  </picture>
+</a>
 
-I am currently a PhD student in [Computer and Information Science](https://www.cis.um.edu.mo) at the [University of Macau](https://um.edu.mo), advised by [Prof. Qingbiao LI](https://www.fst.um.edu.mo/people/qingbiaoli/). My work focuses on surgical robotics, medical image computing, and computer assisted intervention.
-
-## Research
-
-- **Surgical robotics:** Learning and evaluating trajectories for autonomous surgical systems.
-- **Medical image computing:** Vision models for surgical understanding and decision support.
-- **Computer assisted intervention:** AI-assisted methods for surgical planning, perception, and intervention support.
+[Website](https://huanrongliu.com/) · [GitHub](https://github.com/HaroldHuanrongLIU)

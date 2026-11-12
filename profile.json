@@ -1,0 +1,23 @@
+{
+  "name": "Harold Huanrong LIU",
+  "username": "HaroldHuanrongLIU",
+  "header": "harold@liu",
+  "fields": [
+    ["OS", "macOS"],
+    ["Uptime", "{uptime}"],
+    ["Host", "University of Macau"],
+    ["Kernel", "PhD Student"],
+    ["IDE", "Codex"],
+    null,
+    ["Languages.Programming", "GPT"],
+    ["Languages.Computer", "LaTeX, Markdown, HTML"],
+    ["Languages.Real", "ENG"],
+    null,
+    ["Hobbies.Software", "Apple"],
+    ["Hobbies.Hardware", "MacBook"]
+  ],
+  "contact": [
+    ["Website", "huanrongliu.com"],
+    ["GitHub", "HaroldHuanrongLIU"]
+  ]
+}
